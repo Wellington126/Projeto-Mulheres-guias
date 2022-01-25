@@ -1,0 +1,51 @@
+.topo{
+    width: 100%;
+    height: 90px;
+    background-color: rgb(195, 43, 173);
+    position: fixed;
+    top: 0px;
+    display: flex;
+    right: 0;
+    left: 0;
+    align-items: center;            
+    font-family: 'Lucida Sans' , sans-serif;
+}
+
+.topolista{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.topolistaItem{
+    margin-right: 10px;
+    font-size: 25px;
+    font-weight: 300px;
+    cursor: pointer;
+    color: white;
+    margin-left: 40px;
+}
+
+.topolistaItem:hover{
+    color: rgb(29, 185, 195);
+}
+
+.topocentro{
+    flex: 0;
+}
+
+.topoesquerda, .topodireita{
+    flex: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topoimg{
+    width: 180px;
+    height: 110px;
+    
+}
+
