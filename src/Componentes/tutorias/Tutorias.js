@@ -1,6 +1,5 @@
 import "./tutorias.css";
 
-
 export default function Tutorias( { post } ){
     return(
         <>
@@ -10,9 +9,6 @@ export default function Tutorias( { post } ){
             <div className="posttuto">
 
                 <img className="postImgtuto" src={post.foto} alt=""/>
-                
-                
-                  
                 
 
                 <div className="postInfo">

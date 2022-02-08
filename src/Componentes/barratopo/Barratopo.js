@@ -13,7 +13,7 @@ export default function Barratopo(){
             <ul className="topolista">
 
                 <Link to="/" style={{textDecoration: 'none'}}>
-                <li className="topolistaItem">Inicio</li>
+                <li className="topolistaItem">Sobre</li>
                 </Link>
 
                 <Link to="/about" style={{textDecoration: 'none'}}>
@@ -21,7 +21,7 @@ export default function Barratopo(){
                 </Link>
                   
                 <Link to="/contatos" style={{textDecoration: 'none'}}>
-                <li className="topolistaItem">Contatos</li>
+                <li className="topolistaItem">Contato</li>
                 </Link>
 
             </ul>

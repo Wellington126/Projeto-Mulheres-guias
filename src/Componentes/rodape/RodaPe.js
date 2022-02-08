@@ -10,7 +10,7 @@ export default function Rodape(){
                 <div class="row">
                 <div class="col-sm-12 col-md-6">
                     <img class="logoifpb" src={logoIF} alt=""/>
-                    <p class="text-justify">WebSite Desenvolvido por <a href="#"><b>Pedro</b></a>, <a href="#"><b>Samara</b></a> e <a href="https://github.com/"><b>Wellington</b>, alunos do IFPB Campus Pedras de Fogo - PB</a> <i></i>.</p>
+                    <p class="text-justify">WebSite Desenvolvido por <a href="#"><b>Pedro</b></a>, <a href="#"><b>Samara</b></a> e <a href="https://github.com/"><b>Wellington</b>, alunos do IFPB Campus Pedras de Fogo - PB.</a> <i></i></p>
                 </div>
                 </div>
             </div>
